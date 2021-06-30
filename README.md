@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gaborszita
+- 👋 Hi, I’m Gabor Szita
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning lots of interesting things.
-- 💞️ I’m looking to collaborate on ... (idk)
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me: by email on gaborszita@yahoo.com
 
 <!---
