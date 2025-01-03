@@ -1,16 +1,21 @@
-Hi!
+# Hi, I'm Gabor Szita! 👋
 
-I am Gabor Szita, a first-year Computer Science student at UC Santa Barbara. I am interested in gaining research experience, so please feel free to contact me if you're looking for an undergraduate student to assist with your research!
+I am a first-year Computer Science student at UC Santa Barbara. I am interested in gaining research experience, so please feel free to contact me if you're looking for an undergraduate student to assist with your research!
 
-I went to Los Altos High School in the San Francisco Bay Area. I was a member of the high school’s FIRST Robotics Competition team, Team 114 EagleStrike. During my first year at the team I learned about control systems, like PID and feedforward. The second year I worked on the team’s scouting app, which we use to collect data about other robots. Our team achieved outstanding results at competitions. In 2024, we placed first in the San Francisco Regional Competition, second in the Idaho Regional Competition, and qualified for the Houston Championship. Read more about my work at robotics [here](https://www.gaborszita.net/robotics/).
+## About Me
 
-During my time at Los Altos High School, I also took the Advanced Scientific Investigation class. In this class, I did research on how to improve the accuracy of Simultaneous Localization and Mapping (SLAM). I presented my project at the SYNOPSYS Science Fair and received two awards. Read more about my project [here](https://www.gaborszita.net/advanced-scientific-investigation-research-project/).
+- Research Experience: I took the **Advanced Scientific Investigation** class at Los Altos High School and I did research on how to improve the accuracy of **Simultaneous Localization and Mapping (SLAM)**.
+    - Built a robot equipped with a **LIDAR**, a gyro sensor, a reflectance sensor, and a camera for **AprilTag detecion**.
+    - **Improved localization accuracy** by combining data from multiple sensors.
+    - 🏆 Presented my project at the **SYNOPSYS Science Fair**, earning **two awards**.
+  - Read more about my project [here](https://www.gaborszita.net/advanced-scientific-investigation-research-project/).
 
-Email: gaborszita@ucsb.edu
+- Robotics Experience: At Los Altos High School, I was a member of the school's FIRST Robotics Competition team, **Team 114 EagleStrike**.
+  - Year 1: I learned **control systems**, like PID and feedforward, and contributed to the robot’s double-jointed arm control.
+  - Year 2: I worked on the team’s **scouting app**, which we use to collect data about robots at competitions. I was the **head of backend systems and privacy**.
+  - Read more about my robotics work [here](https://www.gaborszita.net/robotics/).
 
-Website: https://gaborszita.net
+## Let's Connect!
 
-<!---
-gaborszita/gaborszita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: gaborszita@ucsb.edu
+- Website: https://gaborszita.net
