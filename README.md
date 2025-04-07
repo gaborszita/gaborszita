@@ -1,6 +1,6 @@
 # Hi, I'm Gabor Szita! 👋
 
-I am a first-year Computer Science student at UC Santa Barbara. I am interested in gaining research experience, so please feel free to contact me if you're looking for an undergraduate student to assist with your research!
+I am a first-year Computer Science student at UC Santa Barbara, currently working in the ArchLab, where I've contributed to the [PyRTL](https://github.com/UCSBarchlab/PyRTL) project.
 
 ## About Me
 
